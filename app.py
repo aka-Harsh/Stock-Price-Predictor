@@ -84,6 +84,11 @@ def main():
                 st.pyplot(fig)
                 plt.close()
 
+                # Calculate probabilities and price change
+                rise_prob, fall_prob = calculate_probabilities(predictions)
+                price_change = predictions[-1] - data['Close'].iloc[-1]
+                price_change_percent = (price_change / data['Close'].iloc[-1]) * 100
+
                 # Store results
                 results.append({
                     "Model": name,
