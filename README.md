@@ -5,3 +5,5 @@ The models we will be using is :
 1. LSTM model
 2. Random Forest model
 3. Xgboost model
+<br>
+Live Demo: https://stock-price-predictor-9yes3rhwbjwjveqmvzx73v.streamlit.app/
