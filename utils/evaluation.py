@@ -1,5 +1,4 @@
 import numpy as np
-import pandas as pd
 
 def calculate_probabilities(predictions):
     diff = np.diff(predictions)
