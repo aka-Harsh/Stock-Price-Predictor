@@ -1,6 +1,14 @@
 # Stock Price Predictor
 
-This stock price predictor leverages ensemble modeling techniques, incorporating LSTM, Random Forest, and XGBoost models to forecast stock prices for up to 100 days. It also offers investment recommendations based on the predicted trends.
+🛠️ This stock price predictor leverages ensemble modeling techniques, incorporating LSTM, Random Forest, and XGBoost models to forecast stock prices for up to 100 days. It also offers investment recommendations based on the predicted trends.<br>
+<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+<img width="12" />
+<img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" height="26" alt="vscode logo"  />
+<img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/2048px-Google_Chrome_icon_%28February_2022%29.svg.png" height="30" alt="vscode logo"  />
+<img width="12" />
 
 ## Demo
 
