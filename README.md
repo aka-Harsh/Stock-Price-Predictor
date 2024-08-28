@@ -31,6 +31,7 @@ Finally run the app.py file
 
 ## Project Outlook
 <br>
+
 ![Screenshot 2024-08-28 154715](https://github.com/user-attachments/assets/f26860fe-7e27-4600-9aaa-0d5f6f70baba)
 ![Screenshot 2024-08-28 154729](https://github.com/user-attachments/assets/d9728a0c-848f-4e19-89f1-1308f924dad9)
 ![Screenshot 2024-08-28 154622](https://github.com/user-attachments/assets/2e75af60-97f2-4c55-895a-f040cd371f4f)
