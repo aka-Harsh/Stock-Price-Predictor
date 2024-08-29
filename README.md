@@ -12,8 +12,7 @@
 
 ## Live Demo
 
-https://stock-price-predictor-9yes3rhwbjwjveqmvzx73v.streamlit.app/
-
+[View the application](https://stock-price-predictor-9yes3rhwbjwjveqmvzx73v.streamlit.app/) 
 
 ## Deployment
 
