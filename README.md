@@ -12,7 +12,8 @@
 
 ## Live Demo
 
-[View the application](https://stock-price-predictor-9yes3rhwbjwjveqmvzx73v.streamlit.app/) 
+[View the application](https://stock-price-predictor-9yes3rhwbjwjveqmvzx73v.streamlit.app/) <br><br>
+🚨 **You might have to wake the application up due to inactivity that can take upto 2 mins, please be patient until app is running again**
 
 ## Deployment
 
