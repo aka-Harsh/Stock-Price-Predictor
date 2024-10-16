@@ -16,22 +16,22 @@
 
 ## Deployment
 
-To run this project first clone this repository using
+To run this project first clone this repository using:
 
 ```bash
   git clone https://github.com/aka-Harsh/Stock-Price-Predictor.git
 ```
-Locate this repository using command prompt and then create a virtual enviroment and activate it
+Locate this repository using command prompt and then create a virtual enviroment and activate it:
 
 ```bash
   conda create -n stock_predictor python=3.8
   conda activate stock_predictor
 ```
-Install all the required packages 
+Install all the required packages:
 ```bash
   pip install -r requirements.txt
 ```
-Finally run the app.py file
+Finally run the app.py file:
 ```bash
   streamlit run app.py
 ```
